@@ -1,0 +1,23 @@
+# 🧹 Data Cleaning & Organization Experience
+ ## Overview
+ In my work, I often encountered raw data that was unorganized, had duplicates, incorrect formats, and inconsistencies. My role was to fix these issues to make the data reliable and usable.
+ ## 🛠️ Steps I Took:
+ *1. Identifying Errors*
+ *   Checked data carefully to spot mistakes, wrong spellings, and wrong formats.
+ *2. Removing Duplicates*
+ *   Used Excel tools and functions to find and delete repeated entries to ensure uniqueness.
+ *3. Standardizing Data*
+ *   Made sure all dates, names, codes, and values follow the same format and structure.
+ *   Example: Converting all dates to "YYYY-MM-DD" format.
+ *4. Data Validation*
+ *   Applied rules to prevent wrong data from being entered.
+ *   Ensured consistency especially in classification and labeling tasks.
+ *5. Sorting and Filtering*
+ *   Arranged data logically so it is easy to read, understand, and analyze.
+ ## 🎯 Result
+ After the process, the data became *accurate, clean, consistent, and ready for analysis or reporting.*
+ ## 💡 Key Skills Applied
+ *   High Attention to Detail
+ *   Accuracy & Precision
+ *   Proficiency in Microsoft Excel (Data Tools, Formulas, Formatting)
+ *   Quality Control
